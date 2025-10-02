@@ -43,7 +43,7 @@ export default async function handler(req, res) {
     const vapiResponse = await fetch('https://api.vapi.ai/call', {
       method: 'POST',
       headers: {
-        'Authorization': `Bearer ${process.env.VAPI_PUBLIC_API_KEY}`,
+        'Authorization': `Bearer ${process.env.VAPI_PRIVATE_API_KEY}`,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(callPayload),
