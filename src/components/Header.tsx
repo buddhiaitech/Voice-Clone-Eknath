@@ -13,7 +13,7 @@ const Header = () => {
         </div>
         <div className="text-right">
           <h2 className="text-xl font-bold">एकनाथ संभाजी शिंदे</h2>
-          <p className="text-sm opacity-90">Eknath Sambhaji Shinde, Maharashtra Deputy CM</p>
+          <p className="text-sm opacity-90">Eknath Sambhaji Shinde Jii, Hon. Deputy CM of Maharashtra</p>
         </div>
       </div>
     </header>
