@@ -41,7 +41,7 @@ const HeroSection = () => {
         <div className="text-center mb-16">
          
           <p className="text-xl md:text-2xl text-muted-foreground max-w-4xl mx-auto">
-            Experience a realistic and high-quality voice clone of Deputy CM Eknath Sambhaji Shinde. Perfect for public service announcements, educational content, and personal messages.
+            Experience a realistic and high-quality voice clone of Hon. Deputy CM Eknath Sambhaji Shinde Jii. Perfect for public service announcements, educational content, and personal messages.
           </p>
         </div>
 
