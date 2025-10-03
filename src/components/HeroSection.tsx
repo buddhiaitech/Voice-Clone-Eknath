@@ -39,9 +39,7 @@ const HeroSection = () => {
     <section className="py-16 px-6 bg-background">
       <div className="container mx-auto max-w-7xl">
         <div className="text-center mb-16">
-          <h2 className="text-5xl md:text-6xl font-bold text-foreground mb-6">
-            Professional Voice Cloning Service
-          </h2>
+         
           <p className="text-xl md:text-2xl text-muted-foreground max-w-4xl mx-auto">
             Experience a realistic and high-quality voice clone of Deputy CM Eknath Sambhaji Shinde. Perfect for public service announcements, educational content, and personal messages.
           </p>
